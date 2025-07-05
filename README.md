@@ -6,18 +6,21 @@ This repository serves as a central hub for course resources I supported during 
 
 ## Courses
 
-###  Object-Oriented Programming I  
+### Object-Oriented Programming I  
 **Professor:** Dr. Jiang Li  
-Focus: Java programming fundamentals, control structures, OOP concepts.
+Focus: Java programming fundamentals, control structures, classes, methods, and introductory OOP.
 
-###  Object-Oriented Programming II (Data Structures)  
-Focus: Lists, stacks, queues, recursion, trees, graphs, and algorithmic thinking.
+| Section | Description |
+|---------|-------------|
+| [Practice Problems](./OOP%20I/practice-problems/README.md) | Intro-level Java coding exercises and examples |
+| [Exams](./OOP%20I/exams/README.md) | Sample midterm/final review materials |
+| [Lecture Materials](./OOP%20I/overview/README.md) | Slides, class examples, and beginner tutorials |
+| [Code Snippets](./OOP%20I/code-snippets/README.md) | Basic Java syntax patterns, conditionals, loops, and class examples |
 
 ---
 
-## Repository Contents
-
-Each linked directory below contains curated resources I contributed to, organized for easy navigation and reference.
+### Object-Oriented Programming II (Data Structures)  
+Focus: Lists, stacks, queues, recursion, trees, graphs, and algorithmic thinking.
 
 | Section | Description |
 |---------|-------------|
@@ -26,9 +29,12 @@ Each linked directory below contains curated resources I contributed to, organiz
 | [Lecture Materials](./OOP%20II/overview/README.md) | Week-by-week slides, exercises, and supplemental videos |
 | [Code Snippets](./OOP%20II/exams/code-snippets/README.md) | Reusable code examples for recursion, trees, linked lists, etc. |
 
+
+
 ##  Office Hours
 
 **Days:** Monday & Wednesday  
 **Time:** 1:10 PM – 2:40 PM  
 **Location:** Tutoring Center  
-Feel free to stop by with questions or for help reviewing any material.
+
+Feel free to stop by with questions, homework help, or to review any of the topics in these materials.
