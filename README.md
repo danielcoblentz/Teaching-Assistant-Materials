@@ -6,7 +6,7 @@ This repository serves as a central hub for course resources I supported during 
 
 ## Courses
 
-###  Object-Oriented Programming I (HEAD TA)  
+###  Object-Oriented Programming I  
 **Professor:** Dr. Jiang Li  
 Focus: Java programming fundamentals, control structures, OOP concepts.
 
@@ -26,3 +26,9 @@ Each linked directory below contains curated resources I contributed to, organiz
 | [Lecture Materials](./OOP%20II/overview/README.md) | Week-by-week slides, exercises, and supplemental videos |
 | [Code Snippets](./OOP%20II/exams/code-snippets/README.md) | Reusable code examples for recursion, trees, linked lists, etc. |
 
+##  Office Hours
+
+**Days:** Monday & Wednesday  
+**Time:** 1:10 PM – 2:40 PM  
+**Location:** Tutoring Center  
+Feel free to stop by with questions or for help reviewing any material.

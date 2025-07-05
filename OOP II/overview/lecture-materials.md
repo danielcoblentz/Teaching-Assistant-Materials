@@ -7,7 +7,7 @@ This file contains a weekly breakdown of course topics, linked slides, exercises
 ### Week 1: Course Overview + OOP Intro  
 - [Slides (PDF)](/OOP%20II/overview/slides/Java%20Review.pdf)  
 - Exercises: Intro + OOP Part I  
-- [Java OOP in 10 Minutes](https://www.youtube.com/watch?v=xo8fA0xvXoY)  
+- [Youtube - Java OOP ](https://www.youtube.com/watch?v=xo8fA0xvXoY)  
 
 ---
 
@@ -20,14 +20,14 @@ This file contains a weekly breakdown of course topics, linked slides, exercises
 
 ### Week 3: Lists  
 - [Slides (PDF)](/OOP%20II/overview/slides/ch02.pdf)  
-- [Array vs. ArrayList in Java](https://www.youtube.com/watch?v=3h0dwC7z-3w)  
+- [Youtube - Array vs. ArrayList ](https://www.youtube.com/watch?v=NbYgm0r7u6o&t=234s)  
 - [Arrays in Java - GeeksforGeeks](https://www.geeksforgeeks.org/arrays-in-java/)
 
 ---
 
 ### Week 4: Linked Lists I  
 - [Slides (PDF)](/OOP%20II/overview/slides/ch02.pdf)  
-- [Linked Lists in 4 Minutes](https://www.youtube.com/watch?v=njTh_OwMljA)  
+- [Youtube - Linked Lists ](https://www.youtube.com/watch?v=njTh_OwMljA)  
 - [Linked List - GeeksforGeeks](https://www.geeksforgeeks.org/data-structures/linked-list/)
 
 ---
@@ -42,14 +42,14 @@ This file contains a weekly breakdown of course topics, linked slides, exercises
 ### Week 6: Stack  
 - [Slides (PDF)](/OOP%20II/overview/slides/ch04.pptx.pdf)  
 - Exercises: Phone Directory  
-- [Stacks in 3 Minutes](https://www.youtube.com/watch?v=zwb3GmNAtFk)  
+- [Youtube - Stacks](https://www.youtube.com/watch?v=A3ZUpyrnCbM&t=11s)  
 - [Stacks - HackerEarth](https://www.hackerearth.com/practice/data-structures/stacks/)
 
 ---
 
 ### Week 7: Queue  
 - [Slides (PDF)](/OOP%20II/overview/slides/ch04.pptx.pdf)  
-- [Queues in 3 Minutes](https://www.youtube.com/watch?v=okr-XE8yTO8)  
+- [Youtube - Queues ](https://www.youtube.com/watch?v=okr-XE8yTO8)  
 - [Queue - GeeksforGeeks](https://www.geeksforgeeks.org/queue-data-structure/)
 
 ---
@@ -62,7 +62,7 @@ This file contains a weekly breakdown of course topics, linked slides, exercises
 
 ### Week 9: Recursion  
 - [Slides (PDF)](/OOP%20II/overview/slides/ch05.pdf)  
-- [You WILL Understand Recursion](https://www.youtube.com/watch?v=ngCos392W4w)  
+- [Youtube - Recursion](https://www.youtube.com/watch?v=ngCos392W4w)  
 - [Recursion - GeeksforGeeks](https://www.geeksforgeeks.org/recursion/)
 
 ---
@@ -77,20 +77,20 @@ This file contains a weekly breakdown of course topics, linked slides, exercises
 ### Week 11: Trees II  
 - [Slides (PDF)](/OOP%20II/overview/slides/ch09.pdf)  
 - [Extra slides (PDF) ](/OOP%20II/overview/slides/chapter%209%20extra.pdf)  
-- [Tree Traversals – Bootcamp](https://www.youtube.com/watch?v=WLvU5EQVZqY)
+- [Youtube - Tree Traversals](https://www.youtube.com/watch?v=WLvU5EQVZqY)
 
 ---
 
 ### Week 12: Sets and Maps  
 - [Slides (PDF)](/OOP%20II/overview/slides/)  
-- [Set and HashSet Tutorial](https://www.youtube.com/watch?v=ejwDkBiyIc8)  
+- [Youtube - Set and HashSet Tutorial](https://www.youtube.com/watch?v=QvHBHuuddYk)  
 - [Set vs. Map – Javatpoint](https://www.javatpoint.com/difference-between-set-and-map-in-java)
 
 ---
 
 ### Week 13: Sorting Algorithms  
 - [Slides (PDF)](./slides/week13-sorting.pdf)  
-- [Sorting Algorithms Overview](https://www.youtube.com/watch?v=PgBzjlCcFvc)  
+- [Youtube - Sorting Algorithms Overview](https://www.youtube.com/watch?v=PgBzjlCcFvc)  
 - [Sorting - GeeksforGeeks](https://www.geeksforgeeks.org/sorting-algorithms/)
 
 ---
@@ -103,14 +103,14 @@ This file contains a weekly breakdown of course topics, linked slides, exercises
 
 ### Week 15: Graphs  
 - [Slides (PDF)](/OOP%20II/overview/slides/ch10.pdf)  
-- [Graphs in 5 Minutes](https://www.youtube.com/watch?v=gXgEDyodOJU)  
+- [Youtube - Graphs](https://www.youtube.com/watch?v=gXgEDyodOJU)  
 - [Graph in Java - Javatpoint](https://www.javatpoint.com/graph-in-data-structure)
 
 ---
 
 ### Week 16: Final Review  
 - [Slides (PDF)](./slides/week16-final-review.pdf)  
-- [Review Course – freeCodeCamp](https://www.youtube.com/watch?v=8hly31xKli0)
+- [Youtube - Review Course](https://www.youtube.com/watch?v=8hly31xKli0)
 
 ---
 
