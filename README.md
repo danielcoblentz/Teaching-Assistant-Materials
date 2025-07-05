@@ -38,3 +38,26 @@ Focus: Lists, stacks, queues, recursion, trees, graphs, and algorithmic thinking
 **Location:** Tutoring Center  
 
 Feel free to stop by with questions, homework help, or to review any of the topics in these materials.
+
+
+
+##  Getting Started with Git
+
+You can download all course materials using Git. Follow the steps below if you're new to Git or GitHub.
+
+### 1. Install Git
+
+If Git is not already installed on your computer, download it here:  
+👉 [https://git-scm.com/downloads](https://git-scm.com/downloads)
+
+Choose the installer for your operating system and follow the setup instructions.
+
+---
+
+### 2. Clone the Repository
+
+Once Git is installed, open a terminal/IDE (or Git Bash on Windows) and run the following command:
+
+```bash
+git clone https://github.com/danielcoblentz/Teaching-Assistant-Materials.git
+
