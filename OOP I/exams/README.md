@@ -12,7 +12,7 @@ The content reinforces Java fundamentals, OOP principles, and core problem-solvi
 |------|-------------|
 | [Final Review](./final-review.md) | Coming soon |
 | [Solved Practice Exam](./solved-practice-exam.md) | Sample questions with answers covering variables, control flow, methods, classes, inheritance, and file I/O |
-| [Code Snippets](../code-snippets/README.md) | Reusable Java examples (e.g., method creation, class structure, basic file handling) |
+| [Code Snippets](/OOP%20I/exams/code-snippets/README.md) | Reusable Java examples (e.g., method creation, class structure, basic file handling) |
 
 ---
 
