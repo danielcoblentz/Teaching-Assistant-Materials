@@ -276,13 +276,14 @@ public class Fibonacci {
 
 ## Multiple Choice Questions – Answers
 
-- B – To define a blueprint for objects
-- C – int
-- A – new
-- A – A
-- A – Defining multiple methods with the same name but different parameter lists
-- B – Handle errors and other exceptional conditions during program execution
-- B – int[] arr = new int[5];
-- C – The class inherits from another class
-- A – The ability of a variable, function, or object to take on multiple forms
-- C – Recursion involves a method calling itself
+1. **B** – To define a blueprint for objects  
+2. **C** – int  
+3. **A** – new  
+4. **A** – A  
+5. **A** – Defining multiple methods with the same name but different parameter lists  
+6. **B** – Handle errors and other exceptional conditions during program execution  
+7. **B** – int[] arr = new int[5];  
+8. **C** – The class inherits from another class  
+9. **A** – The ability of a variable, function, or object to take on multiple forms  
+10. **C** – Recursion involves a method calling itself
+

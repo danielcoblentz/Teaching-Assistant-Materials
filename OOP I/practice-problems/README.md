@@ -118,3 +118,45 @@ if(x > 3) {
 } else {
    System.out.println("B");
 }
+```
+
+A) A  
+B) B  
+C) A B  
+D) Nothing  
+
+**5. Which of the following best describes method overloading in Java?**  
+A) Defining multiple methods with the same name but different parameter lists  
+B) Creating methods that override superclass methods  
+C) Defining methods that have the same parameters and return types  
+D) Using inheritance to create multiple objects
+
+**6. In Java, exception handling is primarily used to:**  
+A) Write data to a file  
+B) Handle errors and other exceptional conditions during program execution  
+C) Allocate memory for objects  
+D) Optimize the performance of an application  
+
+**7. Which of the following correctly creates an array of integers in Java?**  
+A) int arr = new int[5];  
+B) int[] arr = new int[5];  
+C) arr int = new int[5];  
+D) int[] arr = int[5];  
+
+**8. What does the extends keyword signify in a class declaration?**  
+A) The class is final and cannot be subclassed  
+B) The class is abstract  
+C) The class inherits from another class  
+D) The class implements an interface  
+
+**9. What is polymorphism in Java?**  
+A) The ability of a variable, function, or object to take on multiple forms  
+B) The process of converting one data type to another  
+C) The method of encapsulating data and methods into a single unit  
+D) The mechanism of binding data and methods  
+
+**10. Which statement about recursion in Java is correct?**  
+A) Recursion can never lead to stack overflow errors  
+B) Recursion always provides a performance advantage over iteration  
+C) Recursion involves a method calling itself  
+D) Recursion does not require a base case  
