@@ -12,6 +12,7 @@ class TreeNode {
 
 public class TreeTraversal {
 
+    // Inorder Traversal (Left, Root, Right)
     public static void inorder(TreeNode root) {
         if (root != null) {
             inorder(root.left);
@@ -20,6 +21,7 @@ public class TreeTraversal {
         }
     }
 
+    // Preorder Traversal (Root, Left, Right)
     public static void preorder(TreeNode root) {
         if (root != null) {
             System.out.print(root.val + " ");
@@ -28,6 +30,7 @@ public class TreeTraversal {
         }
     }
 
+    // Postorder Traversal (Left, Right, Root)
     public static void postorder(TreeNode root) {
         if (root != null) {
             postorder(root.left);
@@ -37,6 +40,12 @@ public class TreeTraversal {
     }
 
     public static void main(String[] args) {
+        // Build the tree: 
+        //        1
+        //       / \
+        //      2   3
+        //     / \
+        //    4   5
         TreeNode root = new TreeNode(1);
         root.left = new TreeNode(2);
         root.right = new TreeNode(3);

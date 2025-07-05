@@ -37,7 +37,7 @@ Focus: Lists, stacks, queues, recursion, trees, graphs, and algorithmic thinking
 **Time:** 1:10 PM – 2:40 PM  
 **Location:** Tutoring Center  
 
-Feel free to stop by with questions, homework help, or to review any of the topics in these materials.
+Feel free to stop by with questions, homework help, or to review any of the topics in these materials. Additionally if you need help using Git or accessing files I’ll be happy to walk you through it.
 
 
 
@@ -60,4 +60,12 @@ Once Git is installed, open a terminal/IDE (or Git Bash on Windows) and run the 
 
 ```bash
 git clone https://github.com/danielcoblentz/Teaching-Assistant-Materials.git
+```
+
+### 3. Navigate to the main folder + staying updated
+If the materials get updated during the semester, you can pull the latest version:
+```bash
+git pull
+```
+
 
